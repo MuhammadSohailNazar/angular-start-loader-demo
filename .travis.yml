@@ -10,4 +10,4 @@ before_script:
   - npm install -g @angular/cli
 script:
 - ng lint
-- ng build --prod 45728196 https://github.com/MuhammadSohailNazar/angular-start-loader-demo/
+- ng build --prod
